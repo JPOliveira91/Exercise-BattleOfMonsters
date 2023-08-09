@@ -1,19 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1703.7
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{802FF0DA-6DF2-469E-945F-DFD70EBC3093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.Repository", "Lib.Repository\Lib.Repository.csproj", "{DBF370FC-725E-4EAE-B2A4-BB1DD3B5AD2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.Repository", "Lib.Repository\Lib.Repository.csproj", "{DBF370FC-725E-4EAE-B2A4-BB1DD3B5AD2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{5094108C-4035-4951-A5D9-6D327486855F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{5094108C-4035-4951-A5D9-6D327486855F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Test", "API.Test\API.Test.csproj", "{421CBE8C-FF46-4673-A824-935A44CA10E2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.ProblemSolving", "Lib.ProblemSolving\Lib.ProblemSolving.csproj", "{2133681F-BF58-4786-BD60-DD575C577EEC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.ProblemSolving.Test", "Lib.ProblemSolving.Test\Lib.ProblemSolving.Test.csproj", "{6CF971EB-03A7-4BF7-AA4E-FE671A1AA444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Test", "API.Test\API.Test.csproj", "{421CBE8C-FF46-4673-A824-935A44CA10E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,14 +29,6 @@ Global
 		{421CBE8C-FF46-4673-A824-935A44CA10E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421CBE8C-FF46-4673-A824-935A44CA10E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421CBE8C-FF46-4673-A824-935A44CA10E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2133681F-BF58-4786-BD60-DD575C577EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2133681F-BF58-4786-BD60-DD575C577EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2133681F-BF58-4786-BD60-DD575C577EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2133681F-BF58-4786-BD60-DD575C577EEC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6CF971EB-03A7-4BF7-AA4E-FE671A1AA444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CF971EB-03A7-4BF7-AA4E-FE671A1AA444}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CF971EB-03A7-4BF7-AA4E-FE671A1AA444}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CF971EB-03A7-4BF7-AA4E-FE671A1AA444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
